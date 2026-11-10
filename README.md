@@ -4,6 +4,10 @@ An interactive decision map for selecting a solution strategy for rigid-body kin
 
 Developed by **Dr. Nuha Aljuneidi** for engineering education and independent study.
 
+## Live resource
+
+[Open the Chapter 18 decision map](https://nuhaaljuneidi.github.io/dynamics-chapter18-decision-map/)
+
 ## Learning purpose
 
 The map connects the free-body and kinetic diagrams to the planar equations of motion and guides students through moments of inertia, translation (slide or tip), rotation about a fixed axis, and general plane motion, including rolling with and without slipping.
